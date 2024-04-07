@@ -25,7 +25,7 @@ const Forma = () => {
         {val.value}
       </p>
       <div className="delete">
-        <MdDelete />
+        <MdDelete className="delete-icon" />
       </div>
     </div>
   ));

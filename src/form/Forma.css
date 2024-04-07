@@ -55,10 +55,10 @@
   width: 380px;
   height: 20px;
   display: flex;
-  background: red;
-  padding: 16px 10px 20px;
   align-items: center;
   justify-content: space-between;
+  background: red;
+  padding: 16px 10px 20px;
   background: #6debdfcb;
   margin-bottom: 10px;
   font-family: sans-serif;
